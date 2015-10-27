@@ -41,7 +41,7 @@ public class MaccifyUtil {
             // Do some conversions!
         }
 
-        // Then add them all into a JSON object
+        // Then add them all into a JSON object...
         JSONObject ret=new JSONObject();
         ret.put("mac","foo");
 
